@@ -1,4 +1,4 @@
-# mi_card
+# Card App
 
 A personal information card
 
